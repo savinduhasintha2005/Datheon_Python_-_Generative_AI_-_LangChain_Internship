@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2026-001",
+  "invoice_date": "2026-10-20",
+  "vendor": "ABC Technologies",
+  "customer": "XYZ Company",
+  "currency": "USD",
+  "items": [
+    {
+      "description": "Python Development Service",
+      "quantity": 2.0,
+      "unit_price": 250.0,
+      "amount": 500.0
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1.0,
+      "unit_price": 250.0,
+      "amount": 250.0
+    }
+  ],
+  "subtotal": 750.0,
+  "tax": 75.0,
+  "total": 825.0
+}

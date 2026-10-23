@@ -1,0 +1,26 @@
+
+INVOICE
+
+Invoice Number: INV-2026-001
+Date: 2026-10-20
+
+Vendor: ABC Technologies
+Customer: XYZ Company
+
+Items:
+
+1. Python Development Service
+Quantity: 2
+Unit Price: 250.00
+Amount: 500.00
+
+2. API Integration
+Quantity: 1
+Unit Price: 250.00
+Amount: 250.00
+
+Currency: USD
+
+Subtotal: 750.00
+Tax: 75.00
+Total: 825.00

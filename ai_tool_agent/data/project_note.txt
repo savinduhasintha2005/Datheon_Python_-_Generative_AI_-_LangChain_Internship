@@ -1,0 +1,12 @@
+Project: AI Tool Agent
+
+Purpose:
+Build an AI assistant that uses web search, mathematical
+calculations, and local documents.
+
+Tools:
+- DuckDuckGo web search
+- Python calculator
+- Local file reader
+
+The system uses Python and LangChain.
